@@ -8,8 +8,11 @@ weight = 65  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
-[[item]]
-  tags = "Project 1"
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Python, Java, js, C++, Swift, HTML"
   
 
   # Page type to display. E.g. project.
