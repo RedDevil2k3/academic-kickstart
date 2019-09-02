@@ -18,13 +18,19 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Languages"
-  description = "Python, Java, js, C++"
+  description = "Python, Java, js, C++, Swift, HTML"
   
 [[feature]]
   icon = "codepen"
   icon_pack = "fab"
   name = "Environments"
-  description = "MATLAB, GNU Octave, PyQt"  
+  description = "MATLAB, GNU Octave, PyQt, NetBeans"
+  
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "SQLite, Tkinter, Atom, AWS"  
   
 
 +++
