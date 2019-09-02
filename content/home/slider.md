@@ -16,15 +16,15 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Projects"
-  content = "Swipe right for more:smile:"
+  title = "Ongoing Projects"
+  content = "E-mail me for collaboration ->"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#0B2F3A"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,20 +35,20 @@ height = ""
 #  cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Uber"
-  content = "I am left aligned :smile:"
+  title = "Uber Movement Data Analysis"
+  content = "Using Uber movement's public data for quality and proof checking."
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#0489B1"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "PyQT"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = "Minimal Data Profiling s/w for all Operating systems."
+  content = "I am trying to use Python for the job but need help with UI."
+  align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#2ECCFA"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
