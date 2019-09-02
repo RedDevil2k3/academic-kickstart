@@ -11,7 +11,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Languages"
+  name = "Project 1"
   description = "Python, Java, js, C++, Swift, HTML"
   
 
@@ -28,8 +28,8 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-     name = "All"
-     tag = "*"
+  #   name = "All"
+  #   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
