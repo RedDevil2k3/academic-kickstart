@@ -7,16 +7,15 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
-
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Project 1"
-  description = "Python, Java, js, C++, Swift, HTML"
   
 
   # Page type to display. E.g. project.
   page_type = "project" 
+  
+  [[item]]
+  
+    name = "Languages"
+    description = "Python, Java, js, C++, Swift, HTML"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
