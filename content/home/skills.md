@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Languages"
   description = "Python, Java, js, C++"
   
 [[feature]]
   icon = "codeopen"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Environments"
   description = "MATLAB, GNU Octave, PyQt"  
   
