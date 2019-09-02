@@ -21,7 +21,7 @@ subtitle = ""
   description = "Python, Java, js, C++"
   
 [[feature]]
-  icon = "codeopen"
+  icon = "codepen"
   icon_pack = "fab"
   name = "Environments"
   description = "MATLAB, GNU Octave, PyQt"  
