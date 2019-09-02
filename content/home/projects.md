@@ -8,10 +8,13 @@ weight = 65  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
-["ABHIMANYU JOSHI"]
+[[item]]
+  tags = "Project 1"
+  
+
   # Page type to display. E.g. project.
   page_type = "project"
-  tags = ["A","B"]  
+  tags = ["A","B"] 
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
