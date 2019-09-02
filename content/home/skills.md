@@ -21,13 +21,13 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "js"
+  icon = "fa-js"
   icon_pack = "fas"
   name = "javascript"
   description = "50%"  
   
 [[feature]]
-  icon = "java"
+  icon = "fa-java"
   icon_pack = "fas"
   name = "Java"
   description = "50%"
