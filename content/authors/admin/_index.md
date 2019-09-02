@@ -18,24 +18,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests inlcude Data analysis and visualization, Machine Learninng, Narural Language Processing. I am most familiar and prefer to work with Python and it's tools for most of projects. I do have a working knowledge of other languages like C/C++, Java but I feel like python is more flexible and inclusive and can handle a wider variety of work (just an opinion about what I feel). 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Data Analysis
+- Data Visualization
 - Information Retrieval
+- Natural Language Processing
+- UX Designing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Computer Science
+    institution: University of Texas Arlington
+    year: Currently Pursuing
+  - course: B.Tech in Information Technolgy
+    institution: DIT University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abhimanyu Joshi is a student of Computer Science at the University of Texas Arlington. His research interests include Data analysis and visualization, Machine Learninng, Narural Language Processing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
