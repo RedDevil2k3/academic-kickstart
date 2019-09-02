@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/ZWU384LJTCG9"
   date_start = "2017-11-01"
   date_end = "2017-11-20"
-  description = """Multi-step data gathering, analysis, and processing effort and also building web crawlers."""
+  description = "Multi-step data gathering, analysis, and processing effort and also building web crawlers."
   
 [[item]]
   organization = "Coursera"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/J3C4X8RXWNVH"
   date_start = "2017-08-01"
   date_end = "2017-09-09"
-  description = """Scrape, parse, and read web data as well as access data using web APIs, the work involves HTML, XML, and JSON data formats in Python.""" 
+  description = "Scrape, parse, and read web data as well as access data using web APIs, invloving HTML, XML, JSON." 
 
 [[item]]
   organization = "Coursera"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/NHSAXCU9DQM9"
   date_start = "2017-12-20"
   date_end = "2018-01-25"
-  description = """Build a series of applications to retrieve, process and visualize data using Python."""
+  description = "Build a series of applications to retrieve, process and visualize data using Python."
   
 [[item]]
   organization = "Coursera"
@@ -56,6 +56,6 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/LDF284JWUL"
   date_start = "2015-08-01"
   date_end = "2015-08-29"
-  description = """Projects include building fun games such as Pong, Blackjack, and Asteroids."""
+  description = "Projects include building fun games such as Pong, Blackjack, and Asteroids."
 
 +++
