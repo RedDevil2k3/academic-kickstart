@@ -15,46 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
+  icon = "laptop-code"
   icon_pack = "fab"
-  name = "Python"
-  description = "70%"
+  name = "Languages"
+  description = "Python, Java, js, C++"
   
 [[feature]]
-  icon = "fa-js"
+  icon = "codeopen"
   icon_pack = "fas"
-  name = "javascript"
-  description = "50%"  
+  name = "Environments"
+  description = "MATLAB, GNU Octave, PyQt"  
   
-[[feature]]
-  icon = "fa-java"
-  icon_pack = "fas"
-  name = "Java"
-  description = "50%"
-  
- [[feature]]
-  icon = "html5"
-  icon_pack = "fas"
-  name = "HTML"
-  description = "50%"
-  
- [[feature]]
-  icon = "apple"
-  icon_pack = "fas"
-  name = "iOS Development"
-  description = "40%"
-  
-  
- [[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "DB"
-  description = "50%"
-  
- [[feature]]
-  icon = "php"
-  icon_pack = "fas"
-  name = "PHP"
-  description = "50%"
 
 +++
