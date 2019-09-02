@@ -40,7 +40,7 @@ height = ""
   align = "left"
 
   overlay_color = "#0B4C5F"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "static/img/uber.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
