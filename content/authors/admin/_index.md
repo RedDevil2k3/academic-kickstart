@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Abhimanyu Joshi is a student of Computer Science at the University of Texas Arlington. His research interests include Data analysis and visualization, Machine Learninng, Narural Language Processing.
+Abhimanyu Joshi is a student of Computer Science at the University of Texas Arlington. His interests include Data analysis and visualization, Machine Learninng, Narural Language Processing.
 
