@@ -26,17 +26,17 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/ZWU384LJTCG9"
   date_start = "2017-11-01"
   date_end = "2017-11-20"
-  description = """This course inlcudes the basics of SQL as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort using SQLite3 as its database and also building web crawlers and multi-step data gathering and visualization processes."""
+  description = """Multi-step data gathering, analysis, and processing effort and also building web crawlers."""
   
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Using Python to access Web-data."
+  title = "Using Python to access Web-data"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/J3C4X8RXWNVH"
   date_start = "2017-08-01"
   date_end = "2017-09-09"
-  description = """This course shows how one can treat the Internet as a source of data. It includes operations to scrape, parse, and read web data as well as access data using web APIs, the work involves HTML, XML, and JSON data formats in Python.""" 
+  description = """Scrape, parse, and read web data as well as access data using web APIs, the work involves HTML, XML, and JSON data formats in Python.""" 
 
 [[item]]
   organization = "Coursera"
