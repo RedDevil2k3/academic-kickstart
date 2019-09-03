@@ -48,7 +48,7 @@ height = ""
   content = "I am trying to use Python for the job but need help with UI."
   align = "left"
 
-  overlay_color = "##086A87"  # An HTML color value.
+  overlay_color = "#086A87"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
