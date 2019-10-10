@@ -59,11 +59,14 @@
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "grey"
+   #color = "grey"
+   color = "#A5ABAD"
   
   # Background gradient.
-   gradient_start = "Deepgrey"
-   gradient_end = "grey"
+  # gradient_start = "Deepgrey"
+   gradient_start = "#E9EBEC"
+  # gradient_end = "grey"
+   gradient_end = "#777777"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
