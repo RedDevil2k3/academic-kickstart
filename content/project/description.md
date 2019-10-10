@@ -24,24 +24,14 @@ Pre-processing involves several steps like:
 Once, cleaned this data could be used to build up dictionaries for further uses.
 
 
-**<h2> tf-idf **
+**<h2> tf-idf </h2>**
   
-Term Frequency : the number of times a term occurs in a document is called its term frequency.
-                 It can be calculated as : 
-                                            frequnecy of a word in a document
-                                            _________________________________
-                                            
-                                           total no. of words in that document
-                                           
-                                           
-Inverse Document Frequency : inverse document frequency diminishes the weight of terms that occur very
-                             frequently in the document set and increases the weight of rare terms.
-                             It can be calculated as:
-                                                      total no. of terms in the document corpus
-                                                      _________________________________________
-                                                      
-                                                      no. of docs in which term 't' appears
+Term Frequency : the number of times a term occurs in a document is called its term frequency.It can be calculated as : (frequnecy of a word in a document) / (total no. of words in that document)
 
+
+Inverse Document Frequency : inverse document frequency diminishes the weight of terms that occur very frequently in the document set and increases the weight of rare terms.It can be calculated as:
+
+(total no. of terms in the document corpus) / (no. of docs in which term 't' appears)
 
 
 **<h2> Challenges faced</h2>**
