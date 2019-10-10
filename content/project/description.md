@@ -6,11 +6,6 @@ title =  "Kict It Up!"
 # album = "Screenshots"
 # image = "Execution speeds.jpg"
 +++
-
-<h1>A</h1>
-
-# Search engines play a major role in our day to day activities. Instant information, and we all turn to Google or Yahoo. Search engines have become an essential part of our lives. Here, a simple search engine has been developed for a drug dataset.
-
 # The dataset used for this has been taken from [Kaggle](https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018/home).
 # This dataset consists of patient reviews for numerous drugs that have been prescribed for the symptoms that they have experienced, and how effective they have been.
 
