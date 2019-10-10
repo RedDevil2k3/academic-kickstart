@@ -5,7 +5,7 @@
  active = true  # Activate this widget? true/false
  weight = 65  # Order that this section will appear.
 
-# title = "Projects"
+ title = "Projects"
 # subtitle = ""
   
 
@@ -14,8 +14,8 @@
   
   [[item]]
   
-#    name = "Languages"
- #   description = "Python, Java, js, C++, Swift, HTML"
+    name = "Kick it up"
+    description = "I am trying to build a google for football(soccer)"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -47,7 +47,7 @@
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
