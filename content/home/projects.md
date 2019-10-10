@@ -6,16 +6,16 @@
  weight = 65  # Order that this section will appear.
 
  title = "Projects"
-# subtitle = ""
+ subtitle = ""
   
-
+ [content]
   # Page type to display. E.g. project.
   page_type = "project" 
   
-  [[item]]
+  # [[item]]
   
-    name = "Kick it up"
-    description = "I am trying to build a google for football(soccer)"
+   # name = "Kick it up"
+   # description = "I am trying to build a google for football(soccer)"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
