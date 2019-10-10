@@ -27,8 +27,8 @@
   filter_default = 0
   
  #  [[content.filter_button]]
- #    name = "All"
- #    tag = "*"
+     name = "All"
+     tag = "*"
   
  # [[content.filter_button]]
   #   name = "Deep Learning"
