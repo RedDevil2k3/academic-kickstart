@@ -13,15 +13,20 @@ The world today is driven by information and knowledge and searching for things 
 Inorder to have enough free text data to satisfy a "free text query search" I had to crawl up tonnes of relevant pages from WIKIPEDIA (which ofcourse serves a the major souce for free text). As humans, we love stats since they help us rank things so for the purpose of ranking an classifying data I looked up to sources like DATAWORLD.IO and kaggle for some more numerically intense datasets.
 
 
+
 **<h2> Data Pre-processing </h2>**
 
 Crawling up data from wikipedia articles doesn't render a very clean outcomes and hence leaves us with a messy soup of words and what-not. So, data pre-processing and fine-tuning becomes the most important first step before starting to build-up our DB.
+
 Pre-processing involves several steps like:
-                                           i. Converting everything to small-caps.
-                                           ii. Removing additional white-spaces.
-                                           iii. Getting rid off commas, prepositions and known stop words.
-                                           iv. Removing duplicity.
+
+i. Converting everything to small-caps.
+ii. Removing additional white-spaces.
+iii. Getting rid off commas, prepositions and known stop words.
+iv. Removing duplicity.
+
 Once, cleaned this data could be used to build up dictionaries for further uses.
+
 
 
 **<h2> tf-idf </h2>**
@@ -30,8 +35,8 @@ Term Frequency : the number of times a term occurs in a document is called its t
 
 
 Inverse Document Frequency : inverse document frequency diminishes the weight of terms that occur very frequently in the document set and increases the weight of rare terms.It can be calculated as:
-
 (total no. of terms in the document corpus) / (no. of docs in which term 't' appears)
+
 
 
 **<h2> Challenges faced</h2>**
@@ -43,11 +48,14 @@ Inverse Document Frequency : inverse document frequency diminishes the weight of
 3. Specificity of data resulted in poor or strict search queries.
 
 
+
 **<h2> Improvement </h2>**
 
 1. To tackle the problem rised due to specificity of data I decided to increase the range of topics from just one club to the whole league. As a result now there's a better bank of varied and more distinct words.
 
 2. Elimination of duplicate words previously would reduce the data size by half but after diversifying the datasets it works as intented since there are more distinct terms available.
+
+
 
 **<h2> References </h2>**
 
