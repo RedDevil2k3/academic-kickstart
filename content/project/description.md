@@ -7,8 +7,8 @@ title =  "Kict It Up!"
  image = "2.png"
  
  [[gallery_item]]
- album = "static/img"
- image = "static/img/1.png"
+ album = "screenshots"
+ image = "1.png"
  
  [[gallery_item]]
  album = "screenshots"
