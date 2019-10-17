@@ -2,9 +2,9 @@
 
 title =  "Kict It Up!"
 
-# [[gallery_item]]
-# album = ""
-# image = ""
+ [[gallery_item]]
+ album = "screenshots"
+ image = "content/project/screenshots/Screen Shot 2019-10-10 at 12.32.40.png"
 +++
 
 **<h1> Information at your fingertips </h1>**
