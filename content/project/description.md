@@ -4,7 +4,7 @@ title =  "Kict It Up!"
 
  [[gallery_item]]
  album = "screenshots"
- image = "Screen Shot 2019-10-10 at 12.32.40.png"
+ image = "1.png"
 +++
 
 **<h1> Information at your fingertips </h1>**
