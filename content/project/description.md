@@ -55,7 +55,7 @@ Inverse Document Frequency : inverse document frequency diminishes the weight of
 
 2. Elimination of duplicate words previously would reduce the data size by half but after diversifying the datasets it works as intented since there are more distinct terms available.
 
-{{< gallery album="screenshots" >}}
+{{<gallery album="screenshots">}}
 
 **<h2> References </h2>**
 
