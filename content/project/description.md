@@ -4,7 +4,20 @@ title =  "Kict It Up!"
 
  [[gallery_item]]
  album = "screenshots"
+ image = "2.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
  image = "1.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "3.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "4.png"
+ 
 +++
 
 **<h1> Information at your fingertips </h1>**
