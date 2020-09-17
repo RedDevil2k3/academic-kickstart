@@ -15,17 +15,17 @@ role: Student of Computer Science at UTA.
 # Organizations/Affiliations
 organizations:
 - name: University of texas Arlington
-  url: ""
+  url: "https://www.uta.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests inlcude Data analysis and visualization, Machine Learninng, Narural Language Processing. I am most familiar and prefer to work with Python and it's tools for most of projects. I do have a working knowledge of other languages like C/C++, Java but I feel like python is more flexible and inclusive and can handle a wider variety of work (just an opinion about what I feel). 
+bio: My interests inlcude Data analysis and visualization, Machine Learninng, Narural Language Processing and Infromation security. I am most familiar and prefer to work with Python and NodeJS. I do have a working knowledge of other languages like C/C++, Java but I feel like python is more flexible and inclusive and can handle a wider variety of work (just an opinion about what I feel). 
 
 interests:
 - Data Analysis
 - Data Visualization
 - Information Retrieval
 - Natural Language Processing
-- UX Designing
+- Information Security
 
 education:
   courses:
