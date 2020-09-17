@@ -18,7 +18,7 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Languages"
-  description = "Python, Java, js, C++, Swift, HTML"
+  description = "Python, Java, NodeJs, C++, Swift, HTML"
   
 [[feature]]
   icon = "codepen"
