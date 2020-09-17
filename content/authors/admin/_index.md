@@ -73,5 +73,5 @@ email: ""
 # - Visitors
 ---
 
-Hi! I am a Computer-Science Graduate student at University of Texas at Arlington. I am also a member of Infromation Security lab at the university, I have been actively working on my thesis for Information security over web. My interests also include Data-Processing, Natural Language Prcoessing, Cryptography and Infromation mining.
+Hi! I am a Computer-Science Graduate student at University of Texas at Arlington. I am also a member of Information Security lab at the university, I have been actively working on my thesis for privacy and data-security over web. My interests also include Data-Processing, Natural Language Prcoessing, Cryptography and data-mining.
 
