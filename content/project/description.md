@@ -1,3 +1,31 @@
++++
+
+title =  "Kict It Up!"
+
+ [[gallery_item]]
+ album = "screenshots"
+ image = "1.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "2.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "3.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "4.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "5.png"
+ [[gallery_item]]
+ album = "screenshots"
+ image = "6.png"
++++
+
 # Assignment 01
 
 
