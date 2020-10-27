@@ -219,6 +219,7 @@ plt.show()
 
     
 ![png](output_10_0.png)
+[[gallery_item]]
     
 
 
