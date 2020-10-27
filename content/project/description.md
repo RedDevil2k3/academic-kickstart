@@ -2,53 +2,7 @@
 
 title =  "Kict It Up!"
 
- [[gallery_item]]
- album = "screenshots"
- image = "output_10_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_13_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_15_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_15_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_1.png"
-  
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_2.png"
-  
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_3.png"
-  
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_4.png"
-  
- [[gallery_item]]
- album = "screenshots"
- image = "output_19_5.png"
-  
- [[gallery_item]]
- album = "screenshots"
- image = "output_23_0.png"
- 
- [[gallery_item]]
- album = "screenshots"
- image = "output_27_0.png"
+
 +++
 
 # Assignment 01
@@ -217,7 +171,14 @@ plt.show()
 ```
 
 
-{{< gallery album="Screenshots" >}}   
+- label: "Featured Image"
+name: "thumbnail"
+widget: "image"
+default: "output_10_0.png"
+media_library:
+  config:
+    multiple: true   
+    
 ![png](output_10_0.png)
     
 
