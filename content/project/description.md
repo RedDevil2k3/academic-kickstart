@@ -4,26 +4,51 @@ title =  "Kict It Up!"
 
  [[gallery_item]]
  album = "screenshots"
- image = "1.png"
+ image = "output_10_0.png"
  
  [[gallery_item]]
  album = "screenshots"
- image = "2.png"
+ image = "output_13_0.png"
  
  [[gallery_item]]
  album = "screenshots"
- image = "3.png"
+ image = "output_15_0.png"
  
  [[gallery_item]]
  album = "screenshots"
- image = "4.png"
+ image = "output_15_0.png"
  
  [[gallery_item]]
  album = "screenshots"
- image = "5.png"
+ image = "output_19_0.png"
+ 
  [[gallery_item]]
  album = "screenshots"
- image = "6.png"
+ image = "output_19_1.png"
+  
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_19_2.png"
+  
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_19_3.png"
+  
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_19_4.png"
+  
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_19_5.png"
+  
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_23_0.png"
+ 
+ [[gallery_item]]
+ album = "screenshots"
+ image = "output_27_0.png"
 +++
 
 # Assignment 01
