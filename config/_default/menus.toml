@@ -34,3 +34,8 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 70
+
+ [[main]]
+    name = "Assignment-1"
+    url = "files/Joshi_01.html"
+    weight = 70
