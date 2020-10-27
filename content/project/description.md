@@ -217,7 +217,7 @@ plt.show()
 ```
 
 
-    
+output_10_0.png = `${output_10_0.png}`   
 ![png](output_10_0.png)
 [[gallery_item]]
     
