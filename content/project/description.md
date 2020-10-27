@@ -217,7 +217,7 @@ plt.show()
 ```
 
 
-{{< gallery album="Screenshots" image = "output_10_0.png" >}}   
+{{< gallery album="Screenshots" >}}   
 ![png](output_10_0.png)
     
 
