@@ -39,3 +39,8 @@
     name = "Assignment-1"
     url = "files/Joshi_01.html"
     weight = 70
+    
+  [[main]]
+    name = "trying"
+    url = "files/one.ipynb"
+    weight = 70   
