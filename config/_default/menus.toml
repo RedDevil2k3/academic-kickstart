@@ -49,3 +49,8 @@
   name = "Assignment-3"
   url = "files/Joshi_03.html"
   weight = 70 
+  
+  [[main]]
+  name = "Term-Project"
+  url = "files/Joshi_1001796557.html"
+  weight = 70 
